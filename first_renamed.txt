@@ -1,0 +1,3 @@
+version  1 of the project
+Want to do second commit
+some more changes
